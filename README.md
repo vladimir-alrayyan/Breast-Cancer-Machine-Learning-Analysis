@@ -74,9 +74,8 @@ python main.py
 
 ## Project Structure
 
-.
-├── main.py
 
+├── main.py
 └── README.md
 
 ---
