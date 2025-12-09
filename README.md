@@ -76,6 +76,7 @@ python main.py
 
 .
 ├── main.py
+
 └── README.md
 
 ---
@@ -83,8 +84,3 @@ python main.py
 ## License
 
 This project is for educational purposes only.
-
-
----
-
-If you want it shorter or more professional, I can generate another version.
